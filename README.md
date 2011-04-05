@@ -12,6 +12,7 @@ Analyses the HTML of a page for a specific keyword. It checks occurences in sema
 ### pageinfo.rb
 Very simple, unfinished script that displays some information about a page.
 Currently:
+
 * PageRank
 * HTML-validility
 * code/content-ratio
@@ -22,6 +23,7 @@ Simple script that checks ranking of domain for a single google search term.
 Dependencies
 ------------
 Some gems:
+
 * google-search
 * googlepagerank
 * w3c_validators
